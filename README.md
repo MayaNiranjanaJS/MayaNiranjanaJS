@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maya Niranjana JS!
-- 👀 I’m interested in Coding,Drawing & Music!
+- 👀 I’m interested in Coding,Sports,Drawing & Music!
 - 🌱 I’m currently learning Python,C,C++ & Java Programming.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Gravity can bend light!
